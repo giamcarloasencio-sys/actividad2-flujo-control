@@ -14,4 +14,8 @@ El programa:
 
 ## Capturas
 
-Agregar aquí las capturas de los diferentes casos de prueba.
+<img width="1908" height="881" alt="Captura de pantalla 2026-07-18 151255" src="https://github.com/user-attachments/assets/34962367-b618-40cf-9edd-d6ecf44a289c" />
+
+<img width="1912" height="797" alt="Captura de pantalla 2026-07-18 151228" src="https://github.com/user-attachments/assets/f594467f-7a4e-466e-a116-443b86efbe2b" />
+
+<img width="1912" height="826" alt="Captura de pantalla 2026-07-18 150154" src="https://github.com/user-attachments/assets/d3f7c39a-eabe-48ba-b71e-85a5e66375ee" />
