@@ -19,7 +19,6 @@ int main() {
 
     sueldoAnual = sueldoMensual * 12;
 
-    // Escala ISR (ajusta si tu profesor pide la vigente exacta)
     if (sueldoAnual <= 416220.00)
     {
         isrAnual = 0;
